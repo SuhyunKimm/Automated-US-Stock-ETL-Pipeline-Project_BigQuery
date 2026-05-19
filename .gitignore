@@ -22,11 +22,12 @@ rad.json
 TestResults.xml
 
 #GCP credentials
-python/BigQuery/key/
-*.json
+key.json
 
 .venv/
 target/
 dbt_packages/
 logs/
 .env
+
+
