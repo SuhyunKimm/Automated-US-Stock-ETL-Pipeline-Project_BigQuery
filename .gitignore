@@ -23,6 +23,8 @@ TestResults.xml
 
 #GCP credentials
 key.json
+#FinnHub api key
+Finnhub_key.txt
 
 .venv/
 target/
